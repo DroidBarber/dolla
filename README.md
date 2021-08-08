@@ -4,10 +4,12 @@ A fully responsive landing page for a financial company.
 
 ## SOFTWARE TECHNOLOGIES
 
-React
-React Scroll
-Styled Components
-GETTING STARTED
+React<br>
+React Scroll<br><br>
+Styled Components<br>
+
+## GETTING STARTED
+
 Clone The Project
 git clone https://github.com/DroidBarber/dolla/
 
