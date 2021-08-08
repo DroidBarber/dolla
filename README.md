@@ -5,7 +5,7 @@ A fully responsive landing page for a financial company.
 ## SOFTWARE TECHNOLOGIES
 
 React<br>
-React Scroll<br><br>
+React Scroll<br>
 Styled Components<br>
 
 ## GETTING STARTED
