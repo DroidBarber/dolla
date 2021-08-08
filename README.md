@@ -1,8 +1,6 @@
 ## DOLLA (REACT)
 
-A fully responsive landing page for a financial company.
-
-The website is fully responsive and using React Hooks and React Router. The main sections are reusable components that can customized and reused anywhere on the site.
+A fully responsive landing page for a financial company, using React Hooks and React Router. The main sections are reusable components that can be customized and reused anywhere on the site.
 
 ## SOFTWARE TECHNOLOGIES
 
