@@ -10,10 +10,10 @@ Styled Components<br>
 
 ## GETTING STARTED
 
-# Clone The Project
+### Clone The Project
 git clone https://github.com/DroidBarber/dolla/
 
-# Available Scripts
+### Available Scripts
 In the project directory, you can run:
 
 ```npm install```
